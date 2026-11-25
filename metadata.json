@@ -1,0 +1,6 @@
+{
+  "name": "Bharath Delights",
+  "description": "Authentic Tamil Nadu restaurant food ordering platform featuring traditional breakfast, banana leaf meals, biryanis, Chettinad specialties, and freshly brewed filter coffee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
